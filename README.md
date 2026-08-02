@@ -13,4 +13,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Math
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## String
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
