@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
+| [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Matrix
 |  |
 | ------- |
@@ -33,4 +34,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+## Design
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+## Queue
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
