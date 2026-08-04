@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Matrix
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
