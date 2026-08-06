@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
