@@ -1,26 +1,21 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int[] ans = new int[nums.length];
-        int pro = 1; // without zero in arr
-        int zpro = 1; // with zero in arr
-        int c = 0;
+        int n = nums.length;
+        int[] ans = new int[n];
+        int[] prefix = new int[n];
+        int[] sufix = new int[n];
 
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] != 0) {
-                zpro *= nums[i]; 
-            }
-            pro *= nums[i];
-            if(nums[i] == 0) c++;
+        prefix[0] = 1;
+        for(int i = 1; i < n;i++){
+            prefix[i] = prefix[i-1] * nums[i-1];
         }
-        
-        if(c >= 2) return ans;
+        sufix[n-1] = 1;
+        for(int i = n-2 ; i >= 0; i--){
+            sufix[i] = sufix[i+1] * nums[i+1];
+        }
 
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] == 0) {
-                ans[i] = zpro;
-                continue;
-            }
-            ans[i] = pro/nums[i];
+        for (int i = 0; i < n; i++) {
+            ans[i] = prefix[i] * sufix[i];
         }
 
         return ans;
