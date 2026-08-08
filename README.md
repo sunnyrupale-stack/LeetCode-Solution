@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
