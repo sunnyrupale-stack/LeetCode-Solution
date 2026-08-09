@@ -7,10 +7,17 @@ class Solution {
         // for(int i = 1; i < n; i++){
         //     prefix[i] = prefix[i-1] + nums[i];
         // }
-        
+        // Map<Integer,Integer> m = new HashMap<>();
+        // int count = 0;
         // for(int i = 0; i < n; i++){
-        //     int sum = prefix[i] - k;
+        //     if(prefix[i] == k) count++;
+
+        //     if(m.containsKey(prefix[i] - k)){
+        //         count++;
+        //     }
+        //     m.put(prefix[i],i);
         // }
+        // return count++;
 
         int count = 0;
         for(int i = 0; i < nums.length; i++){
