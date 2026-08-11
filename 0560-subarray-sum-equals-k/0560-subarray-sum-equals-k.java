@@ -13,7 +13,9 @@ class Solution {
         for(int x : nums){
             sum += x;
             int diff = sum - k;
-            ans += m.getOrDefault(diff,0);
+            if(m.containsKey(diff)){
+                ans += m.get(diff);
+            }
             m.put(sum,m.getOrDefault(sum,0)+1);
         }
         return ans;
