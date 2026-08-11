@@ -10,9 +10,9 @@ class Solution {
         int i = 0;
         while(i < min){
             for(String s:strs){
-                String str = strs[0];
-                if(s.charAt(i) != str.charAt(i))
+                if(s.charAt(i) != strs[0].charAt(i)){
                     return sb.toString();
+                }
             }
             sb.append(strs[0].charAt(i));
             i++;
