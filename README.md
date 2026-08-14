@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
