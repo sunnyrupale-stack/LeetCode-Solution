@@ -1,23 +1,24 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
+        int maxlen = 0;
+        int L = 0;
+    
         int[] freq = new int[26];
 
-        int left = 0;
-        int maxLen = 0;
+        for(int R = 0; R < s.length(); R++){
+            int current = s.charAt(R) - 'a';
+            freq[current]++;
 
-        for (int right = 0; right < s.length(); right++) {
+            while(freq[current] > 2){
+                // c-a = 2
+                int removed = s.charAt(L) - 'a';
 
-            freq[s.charAt(right) - 'a']++;
-
-            // Invalid window: some character occurs > 2 times
-            while (freq[s.charAt(right) - 'a'] > 2) {
-                freq[s.charAt(left) - 'a']--;
-                left++;
+                freq[removed]--;
+                L++;
             }
-
-            maxLen = Math.max(maxLen, right - left + 1);
+            int count = R-L+1;
+            if(maxlen < count) maxlen = count;
         }
-
-        return maxLen;
+        return maxlen;
     }
 }
