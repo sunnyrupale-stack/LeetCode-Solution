@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
