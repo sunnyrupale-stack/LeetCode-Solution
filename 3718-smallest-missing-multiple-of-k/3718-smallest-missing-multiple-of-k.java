@@ -8,7 +8,7 @@ class Solution {
             if(min > nums[i]) min = nums[i];
         }
 
-        int i = 1;
+        int i = k;
         while(true){
             if(i % k == 0 && !map.containsKey(i)){
                 break;
