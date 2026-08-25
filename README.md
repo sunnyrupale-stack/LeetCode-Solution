@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
