@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [1670-design-front-middle-back-queue](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -144,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
