@@ -1,6 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
         // int maxcount = 0; // stores most freq element
         // int fn = nums[0]; // use as a pointer of starting repeating elemenet
         // int count = 0; // count each elemet freq
@@ -21,7 +21,24 @@ class Solution {
         // }
         // return ans;
 
-        int n = nums.length;
-        return nums[n/2];
+        // int n = nums.length;
+        // return nums[n/2];
+
+        int count = 0;
+        int candidate = 0;
+
+        for(int n: nums){
+            if(count == 0){
+                candidate = n;
+            }
+            
+            if(candidate == n){
+                count++;
+            }
+            else{
+                count--;
+            }
+        }
+        return candidate;
     }
 }
