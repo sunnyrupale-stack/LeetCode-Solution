@@ -6,9 +6,9 @@ class Solution {
         for(int n : nums){
             if(n == 1){
                 c++;
+                max = Math.max(max,c);
             }
-            max = Math.max(max,c);
-            if(n == 0){
+            else{
                 c = 0;
             }
         }
