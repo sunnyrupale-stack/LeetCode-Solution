@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0268-missing-number) |
 | [2485-find-the-pivot-integer](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -193,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sunnyrupale-stack/LeetCode-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
